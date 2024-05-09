@@ -42,4 +42,4 @@ To Setup This Chat Application you need to
 When the Run the Server each Client gets a String Of Numbers as their session Username.
 
 
-👋Thanks for looking at my new project.👋
+👋Thanks for looking at my new project👋
